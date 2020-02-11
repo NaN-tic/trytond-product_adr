@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!-- The COPYRIGHT file at the top level of this repository contains the full
+     copyright notices and license terms. -->
+<form>
+    <label name="name"/>
+    <field name="name" colspan="3"/>
+    <label name="type"/>
+    <field name="type"/>
+    <label name="code"/>
+    <field name="code"/>
+    <label name="adr_class"/>
+    <field name="adr_class"/>
+    <label name="warning_label"/>
+    <field name="warning_label"/>
+    <label name="packaging_group"/>
+    <field name="packaging_group"/>
+    <label name="tunnel_code"/>
+    <field name="tunnel_code"/>
+    <label name="transport_category"/>
+    <field name="transport_category"/>
+</form>

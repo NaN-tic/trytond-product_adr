@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!-- The COPYRIGHT file at the top level of
+this repository contains the full copyright notices and license terms. -->
+<data>
+    <xpath expr="/form/field[@name='code']" position="after">
+        <label name="adr"/>
+        <field name="adr"/>
+        <label name="units_per_package"/>
+        <field name="units_per_package"/>
+        <label name="packaging"/>
+        <field name="packaging"/>
+    </xpath>
+</data>

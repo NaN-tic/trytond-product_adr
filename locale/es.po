@@ -1,0 +1,604 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:product.adr,adr_class:"
+msgid "Class"
+msgstr "Clase"
+
+msgctxt "field:product.adr,code:"
+msgid "Code"
+msgstr "Número"
+
+msgctxt "field:product.adr,create_date:"
+msgid "Create Date"
+msgstr "Fecha creación"
+
+msgctxt "field:product.adr,create_uid:"
+msgid "Create User"
+msgstr "Usuario creación"
+
+msgctxt "field:product.adr,id:"
+msgid "ID"
+msgstr "Identificador"
+
+msgctxt "field:product.adr,name:"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "field:product.adr,packaging_group:"
+msgid "Packaging Group"
+msgstr "Grupo de embalaje"
+
+msgctxt "field:product.adr,rec_name:"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "field:product.adr,transport_category:"
+msgid "Transport Category"
+msgstr "Categoría Transporte"
+
+msgctxt "field:product.adr,tunnel_code:"
+msgid "Tunnel Code"
+msgstr "Código restricción túnel"
+
+msgctxt "field:product.adr,type:"
+msgid "Type"
+msgstr "Tipo"
+
+msgctxt "field:product.adr,warning_label:"
+msgid "Warning Label"
+msgstr "Etiqueta de peligro"
+
+msgctxt "field:product.adr,write_date:"
+msgid "Write Date"
+msgstr "Fecha modificación"
+
+msgctxt "field:product.adr,write_uid:"
+msgid "Write User"
+msgstr "Usuario modificación"
+
+msgctxt "field:product.adr.transport_category,code:"
+msgid "Code"
+msgstr "Número"
+
+msgctxt "field:product.adr.transport_category,code:"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "field:product.adr.transport_category,code:"
+msgid "Package Multiple"
+msgstr "Múltiplo por embalaje"
+
+msgctxt "field:product.adr.transport_category,create_date:"
+msgid "Create Date"
+msgstr "Fecha de creación"
+
+msgctxt "field:product.adr.transport_category,create_uid:"
+msgid "Create User"
+msgstr "Usuario de creación"
+
+msgctxt "field:product.adr.transport_category,id:"
+msgid "ID"
+msgstr "Identificador"
+
+msgctxt "field:product.adr.transport_category,name:"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "field:product.adr.transport_category,package_multiple:"
+msgid "Package Multiple"
+msgstr "Múltiplo por embalaje"
+
+msgctxt "field:product.adr.transport_category,rec_name:"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "field:product.adr.transport_category,write_date:"
+msgid "Write Date"
+msgstr "Fecha modificación"
+
+msgctxt "field:product.adr.transport_category,write_uid:"
+msgid "Write User"
+msgstr "Usuario modificación"
+
+msgctxt "field:product.product,adr:"
+msgid "Adr"
+msgstr "Adr"
+
+msgctxt "field:product.product,packaging:"
+msgid "Packaging"
+msgstr "Embalaje"
+
+msgctxt "field:product.product,units_per_package:"
+msgid "Units per Package"
+msgstr "Unidades por Embalaje"
+
+msgctxt "field:product.template,adr:"
+msgid "Adr"
+msgstr "Adr"
+
+msgctxt "model:ir.action,name:act_adr"
+msgid "Adr"
+msgstr "Adr"
+
+msgctxt "model:ir.ui.menu,name:menu_adr"
+msgid "Adr"
+msgstr "Adr"
+
+msgctxt "model:product.adr,name:"
+msgid "Adr"
+msgstr "Adr"
+
+msgctxt "field:product.package,active:"
+msgid "Active"
+msgstr "Activo"
+
+msgctxt "field:product.package,name:"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "model:product.adr.transport_category,name:"
+msgid "Transport Category"
+msgstr "Categoría de Transporte"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Composition"
+msgstr "Composición"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "DESTINATIONS: See attached shipments"
+msgstr "DESTINATARIOS: Ver albaranes adjuntos"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Date:"
+msgstr "Fecha:"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Destination"
+msgstr "Destinatario"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Fax:"
+msgstr "Fax:"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Packages"
+msgstr "Bultos"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Product"
+msgstr "Producto"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Product not subjected to ADR regulation"
+msgstr "UN 0 NO SUJETO A ADR"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Received"
+msgstr "Copia recibida"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Registry"
+msgstr "Nº Registro"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "SENDER"
+msgstr "EMISOR"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Shipment"
+msgstr "Albarán"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Carrier Signature"
+msgstr "Firma conductor"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "SIGNATURE"
+msgstr "FIRMA"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Tel:"
+msgstr "Tlf:"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Totals epigraph 1.1.3.6:"
+msgstr "Totales epígrafe 1.1.3.6:"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Totals:"
+msgstr "Totales:"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Transport Category"
+msgstr "Categoría de Transporte"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Vehicle"
+msgstr "Vehículo"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "Waybill"
+msgstr "CARTA DE PORTE"
+
+msgctxt "report:stock.shipment.out.waybill:"
+msgid "packages"
+msgstr "Bultos"
+
+msgctxt "model:ir.action,name:report_waybill_shipment"
+msgid "Waybill"
+msgstr "Carta de Porte"
+
+msgctxt "model:ir.action,name:act_package"
+msgid "Package"
+msgstr "Embalajes"
+
+msgctxt "model:ir.ui.menu,name:menu_package"
+msgid "Package"
+msgstr "Embalajes"
+
+msgctxt "model:ir.action,name:act_transport_category"
+msgid "Transport Category"
+msgstr "Categoría de Transporte"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Composition"
+msgstr "Composición"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "DESTINATIONS: See attached shipments"
+msgstr "DESTINATARIOS: Ver albaranes adjuntos"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Date:"
+msgstr "Fecha:"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Destination"
+msgstr "Destinatario"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Fax:"
+msgstr "Fax:"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Packages"
+msgstr "Bultos"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Product"
+msgstr "Producto"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Product not subjected to ADR regulation"
+msgstr "UN 0 NO SUJETO A ADR"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Received"
+msgstr "Copia recibida"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Registry"
+msgstr "Nº Registro"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "SENDER"
+msgstr "EMISOR"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Shipment"
+msgstr "Albarán"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Signature"
+msgstr "Firma conductor"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "SIGNATURE"
+msgstr "FIRMA"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Tel:"
+msgstr "Tlf:"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Totals epigraph 1.1.3.6:"
+msgstr "Totales epígrafe 1.1.3.6:"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Totals:"
+msgstr "Totales:"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Transport Category"
+msgstr "Categoría de Transporte"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Vehicle"
+msgstr "Vehículo"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "Waybill"
+msgstr "CARTA DE PORTE"
+
+msgctxt "report:stock.shipment.internal.waybill:"
+msgid "packages"
+msgstr "Bultos"
+
+msgctxt "model:ir.action,name:report_waybill_shipment_internal"
+msgid "Waybill"
+msgstr "Carta de Porte"
+
+msgctxt "model:ir.action,name:report_waybill_shipment_return"
+msgid "Waybill"
+msgstr "Carta de Porte"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Composition"
+msgstr "Composición"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "DESTINATIONS: See attached shipments"
+msgstr "DESTINATARIOS: Ver albaranes adjuntos"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Date:"
+msgstr "Fecha:"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Destination"
+msgstr "Destinatario"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Fax:"
+msgstr "Fax:"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Packages"
+msgstr "Bultos"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Product"
+msgstr "Producto"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Product not subjected to ADR regulation"
+msgstr "UN 0 NO SUJETO A ADR"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Received"
+msgstr "Copia recibida"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Registry"
+msgstr "Nº Registro"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "SENDER"
+msgstr "EMISOR"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Shipment"
+msgstr "Albarán"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Signature"
+msgstr "Firma conductor"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "SIGNATURE"
+msgstr "FIRMA"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Tel:"
+msgstr "Tlf:"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Totals epigraph 1.1.3.6:"
+msgstr "Totales epígrafe 1.1.3.6:"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Totals:"
+msgstr "Totales:"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Transport Category"
+msgstr "Categoría de Transporte"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Vehicle"
+msgstr "Vehículo"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "Waybill"
+msgstr "CARTA DE PORTE"
+
+msgctxt "report:stock.shipment.out.return.waybill:"
+msgid "packages"
+msgstr "Bultos"
+
+msgctxt "report:product.adr.anual_report:"
+msgid "ADR ANUAL REPORT"
+msgstr "INFORME ANUAL DE TRANSPORTE"
+
+msgctxt "report:product.adr.anual_report:"
+msgid "Type"
+msgstr "Tipo"
+
+msgctxt "report:product.adr.anual_report:"
+msgid "Adr"
+msgstr "Clase Adr"
+
+msgctxt "report:product.adr.anual_report:"
+msgid "Packaging group"
+msgstr "Grupo embalaje"
+
+msgctxt "report:product.adr.anual_report:"
+msgid "label"
+msgstr "Etiqueta de peligro"
+
+msgctxt "report:product.adr.anual_report:"
+msgid "Zip code"
+msgstr "Código postal"
+
+msgctxt "report:product.adr.anual_report:"
+msgid "Address"
+msgstr "Dirección"
+
+msgctxt "report:product.adr.anual_report:"
+msgid "IN"
+msgstr "Descarga"
+
+msgctxt "report:product.adr.anual_report:"
+msgid "OUT"
+msgstr "Carga"
+
+msgctxt "report:product.adr.anual_report:"
+msgid "TRANSPORT"
+msgstr "Transporte"
+
+msgctxt "report:product.adr.anual_report:"
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgctxt "model:ir.action,name:wizard_adr_anual_report"
+msgid "Print Phyto Moves Report"
+msgstr "Imprimir Informe de anual de transporte"
+
+msgctxt "model:ir.ui.menu,name:menu_wizard_adr_anual_report"
+msgid "Print Adr Anual Report"
+msgstr "Informe anual de transporte"
+
+msgctxt "field:product.adr.anual_report.print.start,start_date:"
+msgid "Start Date"
+msgstr "Fecha Inicial"
+
+msgctxt "field:product.adr.anual_report.print.start,end_date:"
+msgid "End Date"
+msgstr "Fecha Final"
+
+msgctxt "field:product.adr.anual_report.print.start,warehouses:"
+msgid "Warehouses"
+msgstr "Almacenes"
+
+msgctxt "wizard_button:product.adr.anual_report.print,start,end:"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "wizard_button:product.adr.anual_report.print,start,print_:"
+msgid "Print"
+msgstr "Imprimir"
+
+msgctxt "model:party.relation.type,name:party_relation_carrier_of"
+msgid "Is Carrier of"
+msgstr "Es transportista de"
+
+msgctxt "model:party.relation.type,name:party_relation_carrier_for"
+msgid "Has as Carrier"
+msgstr "Tiene como transportista a"
+
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Composition"
+msgstr "Composición"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "DESTINATIONS: See attached shipments"
+msgstr "DESTINATARIOS: Ver albaranes adjuntos"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Date:"
+msgstr "Fecha:"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Destination"
+msgstr "Destinatario"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Fax:"
+msgstr "Fax:"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Packages"
+msgstr "Bultos"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Product"
+msgstr "Producto"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Product not subjected to ADR regulation"
+msgstr "UN 0 NO SUJETO A ADR"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Received"
+msgstr "Copia recibida"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Registry"
+msgstr "Nº Registro"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "SENDER"
+msgstr "EMISOR"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Shipment"
+msgstr "Albarán"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Carrier Signature"
+msgstr "Firma conductor"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "SIGNATURE"
+msgstr "FIRMA"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Tel:"
+msgstr "Tlf:"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Totals epigraph 1.1.3.6:"
+msgstr "Totales epígrafe 1.1.3.6:"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Totals:"
+msgstr "Totales:"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Transport Category"
+msgstr "Categoría de Transporte"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Vehicle"
+msgstr "Vehículo"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "Waybill"
+msgstr "CARTA DE PORTE"
+
+msgctxt "report:stock.shipment.in.return.waybill:"
+msgid "packages"
+msgstr "Bultos"
+
+msgctxt "model:ir.action,name:report_waybill_shipment_in_return"
+msgid "Waybill"
+msgstr "Carta de Porte"
