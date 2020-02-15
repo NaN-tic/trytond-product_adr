@@ -17,7 +17,7 @@ class Adr(ModelView, ModelSQL):
 
     type = fields.Char('Type', required=True)
     code = fields.Char('Code', required=True)
-    name = fields.Char('Name', required=True)
+    name = fields.Char('Name', required=True, translate=True)
     adr_class = fields.Selection([
         ('1', '1'),
         ('2', '2'),

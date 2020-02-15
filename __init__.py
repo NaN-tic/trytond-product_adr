@@ -9,5 +9,5 @@ def register():
         adr.Adr,
         adr.TransportCategory,
         product.Package,
-        product.Product,
+        product.Template,
         module='product_adr', type_='model')

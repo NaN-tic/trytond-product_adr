@@ -41,5 +41,8 @@
             <field name="perm_create" eval="False"/>
             <field name="perm_delete" eval="False"/>
         </record>
+
+        <menuitem parent="product.menu_template" sequence="1" id="menu_product_adr"
+            action="act_adr" icon="tryton-list"/>
     </data>
 </tryton>

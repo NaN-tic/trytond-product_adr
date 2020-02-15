@@ -5,16 +5,15 @@ from trytond.model import ModelView
 from trytond.pool import PoolMeta
 from trytond.model import fields, DeactivableMixin
 
-__all__ = ['Product', 'Package']
+__all__ = ['Package', 'Template']
 
 
-class Product(metaclass=PoolMeta):
-    __name__ = 'product.product'
+class Template(metaclass=PoolMeta):
+    __name__ = 'product.template'
 
     adr = fields.Many2One('product.adr', 'Adr')
     units_per_package = fields.Float('Units per Package')
-    packaging = fields.Many2One('product.package', 'Packaging',
-        ondelete='RESTRICT')
+    adr_package = fields.Many2One('product.adr_package', 'Packaging')
 
     def adr_name(self):
         return self.name
@@ -47,8 +46,8 @@ class Product(metaclass=PoolMeta):
         return 1
 
 
-class Package(DeactivableMixin, ModelSQL, ModelView):
+class Package(ModelSQL, ModelView):
     """Product Package"""
-    __name__ = 'product.package'
+    __name__ = 'product.adr_package'
 
     name = fields.Char('Name', required=True)
