@@ -10,4 +10,5 @@ def register():
         adr.TransportCategory,
         product.Package,
         product.Template,
+        product.StorageZone,
         module='product_adr', type_='model')

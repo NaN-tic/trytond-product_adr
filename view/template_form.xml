@@ -10,6 +10,9 @@ this repository contains the full copyright notices and license terms. -->
           <field name="units_per_package"/>
           <label name="adr_package"/>
           <field name="adr_package"/>
+          <newline/>
+          <label name="storage_zone"/>
+          <field name="storage_zone"/>
       </page>
     </xpath>
 </data>
