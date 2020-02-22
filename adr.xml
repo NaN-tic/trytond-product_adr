@@ -28,7 +28,6 @@
         </record>
         <record model="ir.model.access" id="access_adr_admin">
             <field name="model" search="[('model', '=', 'product.adr')]"/>
-            <field name="group" ref="stock.group_stock_admin"/>
             <field name="perm_read" eval="True"/>
             <field name="perm_write" eval="True"/>
             <field name="perm_create" eval="True"/>
