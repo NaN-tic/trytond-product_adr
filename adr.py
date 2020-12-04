@@ -1,11 +1,6 @@
 # The COPYRIGHT file at the top level of
 # this repository contains the full copyright notices and license terms.
 from trytond.model import ModelSQL, ModelView, fields
-from trytond.modules.company import CompanyReport
-from trytond.wizard import Wizard, Button, StateReport, StateView
-from trytond.pool import Pool
-from functools import partial
-from itertools import groupby
 
 __all__ = ['Adr', 'TransportCategory']
 

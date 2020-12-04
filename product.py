@@ -3,7 +3,7 @@
 from trytond.model import ModelSQL
 from trytond.model import ModelView
 from trytond.pool import PoolMeta
-from trytond.model import fields, DeactivableMixin
+from trytond.model import fields
 
 __all__ = ['Package', 'Template', 'StorageZone']
 
