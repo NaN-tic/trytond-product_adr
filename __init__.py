@@ -11,4 +11,5 @@ def register():
         product.Package,
         product.Template,
         product.StorageZone,
+        product.Product,
         module='product_adr', type_='model')
