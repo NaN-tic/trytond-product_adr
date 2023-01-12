@@ -60,3 +60,7 @@ class StorageZone(ModelView, ModelSQL):
     _rec_name = 'code'
     code = fields.Char('Code', required=True)
     name = fields.Char('Name', required=True)
+
+
+class Product(metaclass=PoolMeta):
+    __name__ = 'product.product'
